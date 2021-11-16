@@ -4,6 +4,7 @@ appodeal.com, 119067, RESELLER
 #BidMachine
 bidmachine.io, 119067, RESELLER
 #AdMob
+google.com, pub-6850494961806572, DIRECT, f08c47fec0942fa0
 #Copy Admob's app-ads.txt entry from your Admob dashboard
 #Facebook
 #Replace the Business ID below with your Facebook Business ID
