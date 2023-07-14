@@ -10,7 +10,7 @@
       <description>A bunch of fixes</description>
       <enclosure url="https://giovdain.github.io/QtAutoUpdateAppInstaller_1.0.0.msi" 
 	             sparkle:version="1.1.0" 
-				 sparkle:installerArguments="/quiet"/>
+				 sparkle:installerArguments="/passive"/>
     </item>
   </channel>
 </rss>
