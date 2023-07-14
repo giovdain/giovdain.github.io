@@ -15,7 +15,8 @@
 			sparkle:dsaSignature="MEQCIBII9OoqT0RcGll+uv2gc4i44QpQ2S04woOC6Vsdf6jRAiAMaC2WLdlnww2hTeaiQOxsCRFIQdNcDvjINAVRBWBptQ=="/>
 	    <enclosure 
 		    url="https://giovdain.github.io/npp.8.5.4.Installer.x64.exe" 
-	        sparkle:version="1.1.0"/>
+	        sparkle:version="1.1.0" 
+			sparkle:dsaSignature="MEUCIFnpLU1O6qZhllrzw2YSFOiMEhv8hGyA6nUW/UuK3SuhAiEArlDtCnxCaXnRoLlVoVjYTN2jjHWreYAERRQPLhkfInY="/>
     </item>
   </channel>
 </rss>
