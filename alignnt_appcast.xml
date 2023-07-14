@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-    <channel>
-		<title>AlignNT Changelog</title>
-		<link>www.cemb.com</link>
-		<description>Most recent changes</description>
-		<language>en</language>
-		<item>
-			<title>Version 1.1.0</title>
-				<sparkle:releaseNotesLink>
-					https://github.com/giovdain/giovdain.github.io/blob/main/Release%20Notes.txt
-				</sparkle:releaseNotesLink>
-			<pubDate>Thu, 13 Jul 2023 12:00:00 +0000</pubDate>
-			<enclosure url="https://github.com/giovdain/giovdain.github.io/blob/main/QtAutoUpdateAppInstaller_1.0.0.msi" 
-			           sparkle:version="2.0" 
-					   length="0" 
-					   type="application/octet-stream" />
-		</item>
-	</channel>
+  <channel>
+    <title>AlignNT 1.1.0</title>
+    <link>https://github.com/giovdain/giovdain.github.io/blob/main/alignnt_appcast.xml</link>
+    <description>Most recent changes</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.7</title>
+      <description>A bunch of fixes</description>
+      <enclosure url="https://github.com/giovdain/giovdain.github.io/blob/main/QtAutoUpdateAppInstaller_1.0.0.msi" sparkle:version="0.8" />
+    </item>
+  </channel>
 </rss>
