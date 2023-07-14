@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>AlignNT 1.1.0</title>
-    <link>https://github.com/giovdain/giovdain.github.io/blob/main/alignnt_appcast.xml</link>
+    <link>https://giovdain.github.io/alignnt_appcast.xml</link>
     <description>Most recent changes</description>
     <language>en</language>
     <item>
-      <title>Version 0.7</title>
+      <title>Version 1.1.0</title>
       <description>A bunch of fixes</description>
-      <enclosure url="https://github.com/giovdain/giovdain.github.io/blob/main/QtAutoUpdateAppInstaller_1.0.0.msi" sparkle:version="1.1.0" />
+      <enclosure url="https://giovdain.github.io/QtAutoUpdateAppInstaller_1.0.0.msi" sparkle:version="1.1.0" />
     </item>
   </channel>
 </rss>
