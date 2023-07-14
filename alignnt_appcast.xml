@@ -6,12 +6,16 @@
     <description>Most recent changes</description>
     <language>en</language>
     <item>
-      <title>Version 1.1.0</title>
-      <description>A bunch of fixes</description>
-      <enclosure url="https://giovdain.github.io/QtAutoUpdateAppInstaller_1.0.0.msi" 
-	             sparkle:version="1.1.0" 
-				 sparkle:installerArguments="/passive"
-				 sparkle:dsaSignature="MEQCIBII9OoqT0RcGll+uv2gc4i44QpQ2S04woOC6Vsdf6jRAiAMaC2WLdlnww2hTeaiQOxsCRFIQdNcDvjINAVRBWBptQ=="/>
+        <title>Version 1.1.0</title>
+        <description>A bunch of fixes</description>
+        <enclosure 
+		    url="https://giovdain.github.io/QtAutoUpdateAppInstaller_1.0.0.msi" 
+	        sparkle:version="1.1.0" 
+			sparkle:installerArguments="/passive"
+			sparkle:dsaSignature="MEQCIBII9OoqT0RcGll+uv2gc4i44QpQ2S04woOC6Vsdf6jRAiAMaC2WLdlnww2hTeaiQOxsCRFIQdNcDvjINAVRBWBptQ=="/>
+	    <enclosure 
+		    url="https://giovdain.github.io/npp.8.5.4.Installer.x64.exe" 
+	        sparkle:version="1.1.0"/>
     </item>
   </channel>
 </rss>
